@@ -72,6 +72,7 @@ app.layout = dash_table.DataTable(
     style_data_conditional=conditions
 )
 
+return app
 
 
 if __name__ == '__main__':
